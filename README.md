@@ -1,2 +1,2 @@
 # Arduino
-Repo container for arduino projects and assignments.
+Container for arduino projects and assignments.
