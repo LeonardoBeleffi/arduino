@@ -1,7 +1,6 @@
 # Catch the Led Pattern
 Catch the Led Pattern is a little game developed as the first of three assignments for the 
-IoT exam for the [Computer Science Engineering Bachelor's Degree Course](https://corsi.unibo.it/1cycle/ComputerScienceEngineering)
-at the [University of Bologna](https://www.unibo.it/en).
+IoT exam at [Computer Science Engineering Bachelor's Degree Course](https://corsi.unibo.it/1cycle/ComputerScienceEngineering), [University of Bologna](https://www.unibo.it/en).
 
 ## Developers:
 - [Beleffi Leonardo](https://github.com/LeonardoBeleffi);
