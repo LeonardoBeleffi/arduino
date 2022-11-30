@@ -5,5 +5,4 @@ IoT exam at [Computer Science Engineering Bachelor's Degree Course](https://cors
 ## Developers:
 - [Beleffi Leonardo](https://github.com/LeonardoBeleffi);
 - [Cappelletti Sara](https://github.com/SaraCappelletti).
----
-### Source repo [here](https://github.com/SaraCappelletti/ProgettoIOT).
+
