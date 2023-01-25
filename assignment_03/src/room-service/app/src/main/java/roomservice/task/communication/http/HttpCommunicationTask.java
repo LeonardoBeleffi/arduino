@@ -15,7 +15,7 @@ import java.util.Optional;
 
 public class HttpCommunicationTask implements Task {
 
-    final SmartRoom room;
+    private final SmartRoom room;
     private final int priority;
     private Optional<Pair<Boolean, Integer>> localState;
 
