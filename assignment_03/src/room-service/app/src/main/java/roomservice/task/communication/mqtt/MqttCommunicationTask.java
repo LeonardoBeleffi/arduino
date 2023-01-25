@@ -16,10 +16,10 @@ import roomservice.task.Task;
 
 public class MqttCommunicationTask implements Task {
 
-	final SmartRoom room;
-	private final int priority;
-	private final String mqtt_server = "broker.mqtt-dashboard.com";
-	private final String topic = "Leonardo";
+    private final SmartRoom room;
+    private final int priority;
+    private final String mqtt_server = "broker.mqtt-dashboard.com";
+    private final String topic = "Leonardo";
     private final int port = 1883;
     private Optional<Pair<Boolean, Integer>> localState;
 
@@ -47,7 +47,7 @@ public class MqttCommunicationTask implements Task {
                 } catch (Exception ignored) {}
             });
         });
-	}
+    }
 
     public void execute() {
         var state = this.getLocalState();
