@@ -9,9 +9,9 @@ import roomservice.task.Task;
 
 public class SerialCommunicationTask implements Task {
 
-    final CommChannel channel;
-    final SmartRoom room;
-    final int priority;
+    private final CommChannel channel;
+    private final SmartRoom room;
+    private final int priority;
 
     public SerialCommunicationTask(final String port, final SmartRoom room, final int priorityLevel) throws Exception {
         try {
