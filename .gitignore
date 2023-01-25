@@ -2,3 +2,14 @@ assignment_02/src/arduino/.pio/
 assignment_02/src/arduino/.vscode/c_cpp_properties.json
 assignment_02/src/arduino/.vscode/launch.json
 
+assignment_03/src/room-service/.gradle/
+assignment_03/src/room-service/.idea/
+assignment_03/src/room-service/.settings/
+assignment_03/src/room-service/.project
+assignment_03/src/room-service/room-service.iml
+assignment_03/src/room-service/app/build/
+assignment_03/src/room-service/app/file-uploads/
+
+material/*
+*/*.png
+
